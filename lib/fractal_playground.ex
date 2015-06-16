@@ -1,0 +1,2 @@
+defmodule FractalPlayground do
+end
