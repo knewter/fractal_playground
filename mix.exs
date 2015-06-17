@@ -27,6 +27,8 @@ defmodule FractalPlayground.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    []
+    [
+      {:logo, github: "knewter/logo"}
+    ]
   end
 end
